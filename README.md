@@ -1,6 +1,6 @@
 # Sand Casino Sample Code Repository
 
-This repository contains sample code from the **Sand Casino** website, a for-fun casino platform where players can engage in various games using their in-game items as currency. The website is built using modern full-stack technologies such as **React**, **Node.js**, **PostgreSQL**, and **Firebase**.
+This repository contains sample code from the **Sand Casino** website, a for-fun casino platform where players can engage in various games using their in-game items as currency. The website is built using modern full-stack technologies such as **React**, **Node.js**, **PostgreSQL**, **Firebase**, and **Supabase**.
 
 ## Purpose
 
@@ -11,7 +11,7 @@ The code in this repository is intended to demonstrate my full-stack development
 ## Technologies Used
 
 - **Frontend**: React
-- **Backend**: Node.js
+- **Backend**: Node.js, PlpgSQL
 - **Database**: PostgreSQL
-- **Cloud Services**: Firebase
+- **Cloud Services**: Firebase, Supabase
 
